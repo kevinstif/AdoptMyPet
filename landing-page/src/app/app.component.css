@@ -1,0 +1,18 @@
+@media screen and (min-width: 576px) {
+  .carousel{
+    width: 75%;
+  }
+
+  .carousel-description-box{
+    width: 75%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .carousel{
+    width: 40%;
+  }
+  .carousel-description-box{
+    width: 50%;
+  }
+}
